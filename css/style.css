@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-section {
+    background-image: url("../img/Hero\ \(1\).webp");
+    background-size: cover;
+    width: 100%;
+    height: 120vh;
+    padding: 20px 30px;
+}
+
+.logo h3 {
+    color: white;
+    font-size: 30px;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-list li {
+    padding-left: 30px;
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+}
+
+.title h1 {
+    margin-top: 100px;
+    font-size: 100px;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.btn {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 28px;
+    font-weight: 500;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    transition: 0.4s ease-in-out;
+}
+
+.rating-section {
+    background-color: #a1002e;
+    color: white;
+    padding: 20px 30px;
+}
+
+.rating-section h3 {
+    font-size: 60px;
+}
+
+.rating-section h5 {
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+.heading {
+    font-size: 80px;
+    margin-bottom: 200px;
+}
+
+.card1 {
+    background-color: #b43358;
+    width: 700px;
+    padding: 30px;
+}
+
+.card2 {
+    background-color: #c76682;
+    width: 700px;
+    padding: 30px;
+}
+
+.card3 {
+    background-color: #d999ab;
+    width: 700px;
+    padding: 30px;
+}
+
+.streams {
+    background-color: #798094;
+    color: white;
+    padding: 30px;
+    padding-top: 15px;
+}
+
+.head {
+    font-size: 50px;
+    margin-bottom: 370px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content img {
+    margin-top: 5px;
+}
+
+.views h3 {
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.video-section {
+    background-color: black;
+    color: white;
+    padding: 40px 40px;
+}
+
+.video-title h2 {
+    font-size: 50px;
+}
+
+.video-section span {
+    color: #808080;
+}
+
+.video-bottom h3 {
+    font-size: 30px;
+}
+
+.video video {
+    width: 100%;
+    padding: 30px 0;
+}
+
+.willie-jones {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+    background-color: #cec7ae;
+}
+
+.music {
+    padding-left: 30px;
+}
+
+.music h1 {
+    padding-bottom: 410px;
+    font-size: 45px;
+}
+
+.Advertisers h4 {
+    padding-bottom: 10px;
+}
+
+.Advertisers p {
+    padding-bottom: 40px;
+    font-size: 17px;
+}
+
+.Advertisers {
+    font-size: 20px;
+}
+
+.Newsroom {
+    background-color: black;
+    color: white;
+    padding: 20px 20px;
+}
+
+.News h1 {
+    font-size: 80px;
+    padding-bottom: 40px;
+}
+
+.room {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
